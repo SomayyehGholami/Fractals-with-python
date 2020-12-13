@@ -9,7 +9,7 @@ Teaching assistant:Redona Brahimetaj(rbrahime@etrovub.be)
 
 # Part 1
 
-Chaos game & Affine transformation
+# Chaos game & Affine transformation
 
-Iterated Function System (IFS)
+## Iterated Function System (IFS)
 
