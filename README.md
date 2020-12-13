@@ -6,6 +6,8 @@ Teaching assistant:Taylor Frantz (tfrantz@etrovub.be)
 Teaching assistant:Redona Brahimetaj(rbrahime@etrovub.be)
 
 Part #1
+
 Chaos game & Affine transformation
+
 Iterated Function System (IFS)
 
