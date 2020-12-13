@@ -13,3 +13,4 @@ Teaching assistant:Redona Brahimetaj(rbrahime@etrovub.be)
 
 ## Iterated Function System (IFS)
 
+<img src="files/Chaosgame102.gif"> 
