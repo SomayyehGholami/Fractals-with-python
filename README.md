@@ -14,3 +14,11 @@ Teaching assistant:Redona Brahimetaj(rbrahime@etrovub.be)
 ## Iterated Function System (IFS)
 
 <img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif101.gif"> 
+
+## Another Example
+
+<img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif201.gif"> 
+
+## Van Gogh Style
+
+<img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif301.gif"> 
