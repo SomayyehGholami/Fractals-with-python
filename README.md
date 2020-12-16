@@ -13,4 +13,4 @@ Teaching assistant:Redona Brahimetaj(rbrahime@etrovub.be)
 
 ## Iterated Function System (IFS)
 
-<img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/Chaosgame102.gif"> 
+<img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif101.gif"> 
