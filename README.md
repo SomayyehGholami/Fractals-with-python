@@ -21,4 +21,4 @@ Teaching assistant:Redona Brahimetaj(rbrahime@etrovub.be)
 
 ## Van Gogh Style
 
-<img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif301.gif"> 
+<img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif401.gif"> 
