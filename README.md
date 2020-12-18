@@ -39,6 +39,19 @@ Also, the Modules of this book are used in this notebook.
 https://introcs.cs.princeton.edu/python/code/
 
 # The Collage Theorem
+That the terms of mathematics may be confusing is often claimed even by professional mathematicians. As an example, spaces and sets contain points. Yet there are spaces whose "points" are themselves sets. Functions map points to points but also comprise (function) spaces where each is considered an indivisible one. From the mathematician's view point, the advantage of abstracting a point from its diverse incarnations is in the achieved generality. A statement is proven only once and then applied repeatedly in various disguises.
+
+Case in point - contraction mappings and the related convergence theorems. Contraction mappings are defined on metric spaces by the property that they decrease the distance between points. In complete spaces, any contraction mapping has a unique fixed point that can be found by (necessarily) convergent iterations. Convergence estimates relate proximity of iterations to the selection of the initial point. These general estimates apply as much to the solutions of integral and differential equations, matrices, and more general operators. Iterated Function Systems (IFSs) is another rewarding topic that capitalizes on the general theory.
+
+An Iterated Function System is a finite collection of contractions Fi: XX defined on a metric space X. Each extends to a mapping (different but denoted by the same letter) Fi: H(X)H(X), where H(X) is the space whose points are nonempty compact subsets of X. When endowed with the Hausdorff metric, H(X) is complete if so was X. In addition, contractions FiXX remain contractions as mappings of H(X). Together, {Fi} define another contraction F: H(X)H(X), by the following formula: for every AH(X), F(A) = ∪Fi(A). From the general theory, for a complete metric space X, F has a fixed point AF: F(AF) = AF, that can be reached by successive approximations from any starting location. Fixed points of IFSs are variously called attractors or invariant sets.
+
+Two problems arise. One is to find the fixed point of a given IFS. The other is the inverse of the first: for a given set AH(X), find an IFS {Fi} that has A as its fixed point. In the general framework, the first problem is solved by what is known as the deterministic algorithm. Start with a set A0∈H(X) and compute successively Ak = ∪Fi(Ak-1) = F(Ak-1), k > 1. The sequence {Ak) converges to the fixed point AF of {Fi} as k. The mathematics of the second, random iteration algorithm, is more complex but implementation is more straightforward. Assign positive frequencies pi to the mappings Fi. Start with an arbitrary point x0∈X. At every step k+1, select xk+1 from the set {Fi(xk)}. Fj(xk) is selected with the probability pj /pi. In a sense that is made precise in [Barnsley], the sequence {xk} converges to AF. In practical terms, to depict an approximation of AF on a computer, the points of the sequence are displayed starting with a reasonably large index. The numbers {pi} have no effect on the fixed point AF but influence significantly the rendering of its approximations.
+
+The inverse problem is solved approximately by the Collage Theorem. In the words of M. Barnsley, the theorem tells us that to find an IFS whose attractor is "close to" or "looks like" a given set, one must endeavor to find a set of transformations - contraction mappings on a suitable set within which the given set lies - such that the union, or collage, of the images of the given set under transformations is near to the given set.
+
+http://www.cut-the-knot.org/ctk/ifs.shtml
+
+________________________________________________________________________________________________________________________________________________________________________________
 
 
 
