@@ -34,7 +34,7 @@ An iterated function system (IFS) is a general way to produce fractals like the 
 
 <img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/ChaosTiny.png"> 
 
-## Also, the Modules of this book are used in this notebook.
+### Also, the Modules of this book are used in this notebook.
 
 https://introcs.cs.princeton.edu/python/code/
 
@@ -55,10 +55,13 @@ ________________________________________________________________________________
 To draw each image, we started from an arbitrary point, and for obtaining position of a new point (the coordinations(x,y) ), we use  some specified functions reaptedly and randomly and surprisingly the fractal image will be generated.
 
 <img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif101.gif"> 
+________________________________________________________________________________________________________________________________________________________________________________
 
-## Another Example
+# Another Sample | Tree Fracatl Art
+In this image, one of the branch displayed yellow and the rest are drawn green.
 
 <img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif201.gif"> 
+________________________________________________________________________________________________________________________________________________________________________________
 
 ## Van Gogh Style
 
