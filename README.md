@@ -12,6 +12,8 @@ ________________________________________________________________________________
 
 # Part 1 - Chaos game & Iterated Function System (IFS)
 
+_________________________________________________________________________________________________
+
 # Chaos game
 In mathematics, the term chaos game originally referred to a method of creating a fractal, using a polygon and an initial point selected at random inside it. The fractal is created by iteratively creating a sequence of points, starting with the initial random point, in which each point in the sequence is a given fraction of the distance between the previous point and one of the vertices of the polygon; the vertex is chosen at random in each iteration. Repeating this iterative process a large number of times, selecting the vertex at random on each iteration, and throwing out the first few points in the sequence, will often (but not always) produce a fractal shape. https://en.wikipedia.org/wiki/Chaos_game
 
@@ -53,14 +55,17 @@ ________________________________________________________________________________
 
 # Iterated Function System (IFS) | 6 Fractal Images
 To draw each image, we started from an arbitrary point, and for obtaining position of a new point (the coordinations(x,y) ), we use  some specified functions reaptedly and randomly and surprisingly the fractal image will be generated.
+
 <img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif101.gif"> 
 
 # Another Sample | Tree Fracatl Art
 In this image, one of the branch displayed yellow and the rest are drawn green.
+
 <img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif201.gif"> 
 
 # Tree Fracatl Art | Van Gogh Style
 It's my own idea. I realized to use varites of colors for painting tree's branches. So, after finding the place of points (by possibil() function and subsequent calculations), once again I defind a new random function to choose a final color.
+
 <img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif401.gif"> 
 
 # Tree Fracatl Art | Loyal to matplotlib and numpy :)
