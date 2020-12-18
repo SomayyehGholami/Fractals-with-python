@@ -32,7 +32,7 @@ IFS fractals, as they are normally called, can be of any number of dimensions, b
 # Description of the book: "Introduction to Programming in Python"
 An iterated function system (IFS) is a general way to produce fractals like the Sierpinski triangle and the Barnsley Fern. As a first example, consider the following simple process: start by plotting a point at one of the vertices of an equilateral triangle. Then pick one of the three vertices at random and plot a new point halfway between the point just plotted and that vertex. Continue performing the same operation.
 
-
+<img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/ChaosTiny.png"> 
 
 
 
