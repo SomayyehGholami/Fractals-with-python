@@ -29,6 +29,16 @@ In mathematics, iterated function systems (IFSs) are a method of constructing fr
 
 IFS fractals, as they are normally called, can be of any number of dimensions, but are commonly computed and drawn in 2D. The fractal is made up of the union of several copies of itself, each copy being transformed by a function (hence "function system"). The canonical example is the Sierpiński triangle. The functions are normally contractive, which means they bring points closer together and make shapes smaller. Hence, the shape of an IFS fractal is made up of several possibly-overlapping smaller copies of itself, each of which is also made up of copies of itself, ad infinitum. This is the source of its self-similar fractal nature. https://en.wikipedia.org/wiki/Iterated_function_system
 
+# Description of the book: "Introduction to Programming in Python"
+An iterated function system (IFS) is a general way to produce fractals like the Sierpinski triangle and the Barnsley Fern. As a first example, consider the following simple process: start by plotting a point at one of the vertices of an equilateral triangle. Then pick one of the three vertices at random and plot a new point halfway between the point just plotted and that vertex. Continue performing the same operation.
+
+
+
+
+
+
+
+
 
 <img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif101.gif"> 
 
