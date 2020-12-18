@@ -51,9 +51,8 @@ The inverse problem is solved approximately by the Collage Theorem. In the words
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
-
-
-
+# Iterated Function System (IFS) | 6 Fractal Images
+To draw each image, we started from an arbitrary point, and for obtaining position of a new point (the coordinations(x,y) ), we use  some specified functions reaptedly and randomly and surprisingly the fractal image will be generated.
 
 <img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif101.gif"> 
 
