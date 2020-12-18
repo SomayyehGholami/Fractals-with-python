@@ -53,24 +53,17 @@ ________________________________________________________________________________
 
 # Iterated Function System (IFS) | 6 Fractal Images
 To draw each image, we started from an arbitrary point, and for obtaining position of a new point (the coordinations(x,y) ), we use  some specified functions reaptedly and randomly and surprisingly the fractal image will be generated.
-
 <img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif101.gif"> 
-_________________________________________________________________________________________________
 
 # Another Sample | Tree Fracatl Art
 In this image, one of the branch displayed yellow and the rest are drawn green.
-
 <img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif201.gif"> 
-_________________________________________________________________________________________________
 
-## Van Gogh Style
-
+# Tree Fracatl Art | Van Gogh Style
+It's my own idea. I realized to use varites of colors for painting tree's branches. So, after finding the place of points (by possibil() function and subsequent calculations), once again I defind a new random function to choose a final color.
 <img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif401.gif"> 
-_________________________________________________________________________________________________
 
-
-
-
-
+# Tree Fracatl Art | Loyal to matplotlib and numpy :)
+whatever's done above, here it's done by using matplotlib and numpy libraries. Of course, the result is not impressive as above.
 
 
