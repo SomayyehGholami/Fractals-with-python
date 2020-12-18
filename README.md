@@ -49,24 +49,24 @@ Two problems arise. One is to find the fixed point of a given IFS. The other is 
 
 The inverse problem is solved approximately by the Collage Theorem. In the words of M. Barnsley, the theorem tells us that to find an IFS whose attractor is "close to" or "looks like" a given set, one must endeavor to find a set of transformations - contraction mappings on a suitable set within which the given set lies - such that the union, or collage, of the images of the given set under transformations is near to the given set. http://www.cut-the-knot.org/ctk/ifs.shtml
 
-__________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________
 
 # Iterated Function System (IFS) | 6 Fractal Images
 To draw each image, we started from an arbitrary point, and for obtaining position of a new point (the coordinations(x,y) ), we use  some specified functions reaptedly and randomly and surprisingly the fractal image will be generated.
 
 <img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif101.gif"> 
-__________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________
 
 # Another Sample | Tree Fracatl Art
 In this image, one of the branch displayed yellow and the rest are drawn green.
 
 <img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif201.gif"> 
-__________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________
 
 ## Van Gogh Style
 
 <img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/gif401.gif"> 
-__________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________
 
 
 
