@@ -7,6 +7,9 @@ Teaching assistant:Taylor Frantz (tfrantz@etrovub.be)
 
 Teaching assistant:Redona Brahimetaj(rbrahime@etrovub.be)
 
+<div class="alert alert-success">  
+</div>
+
 # Part 1
 
 # Chaos game & Affine transformation
