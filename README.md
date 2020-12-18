@@ -34,7 +34,11 @@ An iterated function system (IFS) is a general way to produce fractals like the 
 
 <img src="https://github.com/SomayyehGholami/Fractals-with-python/blob/main/ChaosTiny.png"> 
 
-<img src="files/https://github.com/SomayyehGholami/Fractals-with-python/blob/main/ChaosTiny.png"> 
+Also, the Modules of this book are used in this notebook.
+
+https://introcs.cs.princeton.edu/python/code/
+
+# The Collage Theorem
 
 
 
